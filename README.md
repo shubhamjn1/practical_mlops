@@ -1,2 +1,2 @@
-# practical_mlops
-Test the best practices of MLOPS from the Practical MLOps book by Noah
+# Practical MLOps tutorial
+Best practices of MLOPS from the Practical MLOps book by Noah
